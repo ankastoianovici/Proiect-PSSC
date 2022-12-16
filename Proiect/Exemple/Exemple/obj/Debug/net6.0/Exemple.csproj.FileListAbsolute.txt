@@ -1,0 +1,15 @@
+C:\Users\ankas\OneDrive\Documente\GitHub\Proiect\Exemple\Exemple\bin\Debug\net6.0\Exemple.exe
+C:\Users\ankas\OneDrive\Documente\GitHub\Proiect\Exemple\Exemple\bin\Debug\net6.0\Exemple.deps.json
+C:\Users\ankas\OneDrive\Documente\GitHub\Proiect\Exemple\Exemple\bin\Debug\net6.0\Exemple.runtimeconfig.json
+C:\Users\ankas\OneDrive\Documente\GitHub\Proiect\Exemple\Exemple\bin\Debug\net6.0\Exemple.dll
+C:\Users\ankas\OneDrive\Documente\GitHub\Proiect\Exemple\Exemple\bin\Debug\net6.0\Exemple.pdb
+C:\Users\ankas\OneDrive\Documente\GitHub\Proiect\Exemple\Exemple\obj\Debug\net6.0\Exemple.csproj.AssemblyReference.cache
+C:\Users\ankas\OneDrive\Documente\GitHub\Proiect\Exemple\Exemple\obj\Debug\net6.0\Exemple.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ankas\OneDrive\Documente\GitHub\Proiect\Exemple\Exemple\obj\Debug\net6.0\Exemple.AssemblyInfoInputs.cache
+C:\Users\ankas\OneDrive\Documente\GitHub\Proiect\Exemple\Exemple\obj\Debug\net6.0\Exemple.AssemblyInfo.cs
+C:\Users\ankas\OneDrive\Documente\GitHub\Proiect\Exemple\Exemple\obj\Debug\net6.0\Exemple.csproj.CoreCompileInputs.cache
+C:\Users\ankas\OneDrive\Documente\GitHub\Proiect\Exemple\Exemple\obj\Debug\net6.0\Exemple.dll
+C:\Users\ankas\OneDrive\Documente\GitHub\Proiect\Exemple\Exemple\obj\Debug\net6.0\refint\Exemple.dll
+C:\Users\ankas\OneDrive\Documente\GitHub\Proiect\Exemple\Exemple\obj\Debug\net6.0\Exemple.pdb
+C:\Users\ankas\OneDrive\Documente\GitHub\Proiect\Exemple\Exemple\obj\Debug\net6.0\Exemple.genruntimeconfig.cache
+C:\Users\ankas\OneDrive\Documente\GitHub\Proiect\Exemple\Exemple\obj\Debug\net6.0\ref\Exemple.dll
