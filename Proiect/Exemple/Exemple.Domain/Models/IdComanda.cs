@@ -1,0 +1,45 @@
+﻿using LanguageExt;
+using static LanguageExt.Prelude;
+using System.Text.RegularExpressions;
+
+namespace Exemple.Domain.Models
+{
+    public record IdComanda
+    {
+        public const string Pattern = "^LM[0-9]{5}$";
+        private static readonly Regex PatternRegex = new(Pattern);
+
+        public string Value { get; }
+
+        public IdComanda(string value)
+        {
+            if (IsValid(value))
+            {
+                Value = value;
+            }
+            else
+            {
+                throw new InvalidIdComandaException("");
+            }
+        }
+        private static bool IsValid(string stringValue) => PatternRegex.IsMatch(stringValue);
+
+        public override string ToString()
+        {
+            return Value;
+        }
+
+        public static Option<IdComanda> TryParse(string stringValue)
+        {
+            if (IsValid(stringValue))
+            {
+                return Some<IdComanda>(new(stringValue));
+            }
+            else
+            {
+                return None;
+            }
+        }
+
+    }
+}
