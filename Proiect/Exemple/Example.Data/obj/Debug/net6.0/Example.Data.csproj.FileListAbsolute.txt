@@ -1,0 +1,222 @@
+C:\Users\ankas\OneDrive\Documente\GitHub\Proiect\Exemple\Example.Data\obj\Debug\net6.0\Example.Data.csproj.AssemblyReference.cache
+C:\Users\ankas\OneDrive\Documente\GitHub\Proiect\Exemple\Example.Data\obj\Debug\net6.0\Example.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ankas\OneDrive\Documente\GitHub\Proiect\Exemple\Example.Data\obj\Debug\net6.0\Example.Data.AssemblyInfoInputs.cache
+C:\Users\ankas\OneDrive\Documente\GitHub\Proiect\Exemple\Example.Data\obj\Debug\net6.0\Example.Data.AssemblyInfo.cs
+C:\Users\ankas\OneDrive\Documente\GitHub\Proiect\Exemple\Example.Data\obj\Debug\net6.0\Example.Data.csproj.CoreCompileInputs.cache
+C:\Users\ankas\OneDrive\Documente\GitHub\Proiect\Exemple\Example.Data\bin\Debug\net6.0\Exemple.Domain.deps.json
+C:\Users\ankas\OneDrive\Documente\GitHub\Proiect\Exemple\Example.Data\bin\Debug\net6.0\Exemple.Domain.runtimeconfig.json
+C:\Users\ankas\OneDrive\Documente\GitHub\Proiect\Exemple\Example.Data\bin\Debug\net6.0\Example.Dto.deps.json
+C:\Users\ankas\OneDrive\Documente\GitHub\Proiect\Exemple\Example.Data\bin\Debug\net6.0\Example.Dto.runtimeconfig.json
+C:\Users\ankas\OneDrive\Documente\GitHub\Proiect\Exemple\Example.Data\bin\Debug\net6.0\Example.Dto.exe
+C:\Users\ankas\OneDrive\Documente\GitHub\Proiect\Exemple\Example.Data\bin\Debug\net6.0\Example.Events.deps.json
+C:\Users\ankas\OneDrive\Documente\GitHub\Proiect\Exemple\Example.Data\bin\Debug\net6.0\Example.Events.runtimeconfig.json
+C:\Users\ankas\OneDrive\Documente\GitHub\Proiect\Exemple\Example.Data\bin\Debug\net6.0\Example.Events.exe
+C:\Users\ankas\OneDrive\Documente\GitHub\Proiect\Exemple\Example.Data\bin\Debug\net6.0\Exemple.Domain.exe
+C:\Users\ankas\OneDrive\Documente\GitHub\Proiect\Exemple\Example.Data\bin\Debug\net6.0\Example.Data.exe
+C:\Users\ankas\OneDrive\Documente\GitHub\Proiect\Exemple\Example.Data\bin\Debug\net6.0\Example.Data.deps.json
+C:\Users\ankas\OneDrive\Documente\GitHub\Proiect\Exemple\Example.Data\bin\Debug\net6.0\Example.Data.runtimeconfig.json
+C:\Users\ankas\OneDrive\Documente\GitHub\Proiect\Exemple\Example.Data\bin\Debug\net6.0\Example.Data.dll
+C:\Users\ankas\OneDrive\Documente\GitHub\Proiect\Exemple\Example.Data\bin\Debug\net6.0\Example.Data.pdb
+C:\Users\ankas\OneDrive\Documente\GitHub\Proiect\Exemple\Example.Data\bin\Debug\net6.0\Azure.Core.dll
+C:\Users\ankas\OneDrive\Documente\GitHub\Proiect\Exemple\Example.Data\bin\Debug\net6.0\Azure.Identity.dll
+C:\Users\ankas\OneDrive\Documente\GitHub\Proiect\Exemple\Example.Data\bin\Debug\net6.0\CloudNative.CloudEvents.dll
+C:\Users\ankas\OneDrive\Documente\GitHub\Proiect\Exemple\Example.Data\bin\Debug\net6.0\CloudNative.CloudEvents.SystemTextJson.dll
+C:\Users\ankas\OneDrive\Documente\GitHub\Proiect\Exemple\Example.Data\bin\Debug\net6.0\CSharp.Choices.dll
+C:\Users\ankas\OneDrive\Documente\GitHub\Proiect\Exemple\Example.Data\bin\Debug\net6.0\CSharp.Choices.Attributes.dll
+C:\Users\ankas\OneDrive\Documente\GitHub\Proiect\Exemple\Example.Data\bin\Debug\net6.0\LanguageExt.Core.dll
+C:\Users\ankas\OneDrive\Documente\GitHub\Proiect\Exemple\Example.Data\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\ankas\OneDrive\Documente\GitHub\Proiect\Exemple\Example.Data\bin\Debug\net6.0\Microsoft.CodeAnalysis.dll
+C:\Users\ankas\OneDrive\Documente\GitHub\Proiect\Exemple\Example.Data\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\ankas\OneDrive\Documente\GitHub\Proiect\Exemple\Example.Data\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\ankas\OneDrive\Documente\GitHub\Proiect\Exemple\Example.Data\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\ankas\OneDrive\Documente\GitHub\Proiect\Exemple\Example.Data\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\ankas\OneDrive\Documente\GitHub\Proiect\Exemple\Example.Data\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\ankas\OneDrive\Documente\GitHub\Proiect\Exemple\Example.Data\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\ankas\OneDrive\Documente\GitHub\Proiect\Exemple\Example.Data\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\ankas\OneDrive\Documente\GitHub\Proiect\Exemple\Example.Data\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\ankas\OneDrive\Documente\GitHub\Proiect\Exemple\Example.Data\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\ankas\OneDrive\Documente\GitHub\Proiect\Exemple\Example.Data\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\ankas\OneDrive\Documente\GitHub\Proiect\Exemple\Example.Data\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\ankas\OneDrive\Documente\GitHub\Proiect\Exemple\Example.Data\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+C:\Users\ankas\OneDrive\Documente\GitHub\Proiect\Exemple\Example.Data\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\ankas\OneDrive\Documente\GitHub\Proiect\Exemple\Example.Data\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+C:\Users\ankas\OneDrive\Documente\GitHub\Proiect\Exemple\Example.Data\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+C:\Users\ankas\OneDrive\Documente\GitHub\Proiect\Exemple\Example.Data\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Users\ankas\OneDrive\Documente\GitHub\Proiect\Exemple\Example.Data\bin\Debug\net6.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\ankas\OneDrive\Documente\GitHub\Proiect\Exemple\Example.Data\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\ankas\OneDrive\Documente\GitHub\Proiect\Exemple\Example.Data\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\ankas\OneDrive\Documente\GitHub\Proiect\Exemple\Example.Data\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\ankas\OneDrive\Documente\GitHub\Proiect\Exemple\Example.Data\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\ankas\OneDrive\Documente\GitHub\Proiect\Exemple\Example.Data\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\ankas\OneDrive\Documente\GitHub\Proiect\Exemple\Example.Data\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\ankas\OneDrive\Documente\GitHub\Proiect\Exemple\Example.Data\bin\Debug\net6.0\Microsoft.SqlServer.Server.dll
+C:\Users\ankas\OneDrive\Documente\GitHub\Proiect\Exemple\Example.Data\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\ankas\OneDrive\Documente\GitHub\Proiect\Exemple\Example.Data\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\ankas\OneDrive\Documente\GitHub\Proiect\Exemple\Example.Data\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\ankas\OneDrive\Documente\GitHub\Proiect\Exemple\Example.Data\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\ankas\OneDrive\Documente\GitHub\Proiect\Exemple\Example.Data\bin\Debug\net6.0\System.Memory.Data.dll
+C:\Users\ankas\OneDrive\Documente\GitHub\Proiect\Exemple\Example.Data\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Users\ankas\OneDrive\Documente\GitHub\Proiect\Exemple\Example.Data\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\ankas\OneDrive\Documente\GitHub\Proiect\Exemple\Example.Data\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\ankas\OneDrive\Documente\GitHub\Proiect\Exemple\Example.Data\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\ankas\OneDrive\Documente\GitHub\Proiect\Exemple\Example.Data\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ankas\OneDrive\Documente\GitHub\Proiect\Exemple\Example.Data\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ankas\OneDrive\Documente\GitHub\Proiect\Exemple\Example.Data\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ankas\OneDrive\Documente\GitHub\Proiect\Exemple\Example.Data\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ankas\OneDrive\Documente\GitHub\Proiect\Exemple\Example.Data\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ankas\OneDrive\Documente\GitHub\Proiect\Exemple\Example.Data\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ankas\OneDrive\Documente\GitHub\Proiect\Exemple\Example.Data\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ankas\OneDrive\Documente\GitHub\Proiect\Exemple\Example.Data\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ankas\OneDrive\Documente\GitHub\Proiect\Exemple\Example.Data\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ankas\OneDrive\Documente\GitHub\Proiect\Exemple\Example.Data\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ankas\OneDrive\Documente\GitHub\Proiect\Exemple\Example.Data\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ankas\OneDrive\Documente\GitHub\Proiect\Exemple\Example.Data\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ankas\OneDrive\Documente\GitHub\Proiect\Exemple\Example.Data\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ankas\OneDrive\Documente\GitHub\Proiect\Exemple\Example.Data\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ankas\OneDrive\Documente\GitHub\Proiect\Exemple\Example.Data\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ankas\OneDrive\Documente\GitHub\Proiect\Exemple\Example.Data\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ankas\OneDrive\Documente\GitHub\Proiect\Exemple\Example.Data\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ankas\OneDrive\Documente\GitHub\Proiect\Exemple\Example.Data\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ankas\OneDrive\Documente\GitHub\Proiect\Exemple\Example.Data\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ankas\OneDrive\Documente\GitHub\Proiect\Exemple\Example.Data\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ankas\OneDrive\Documente\GitHub\Proiect\Exemple\Example.Data\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ankas\OneDrive\Documente\GitHub\Proiect\Exemple\Example.Data\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ankas\OneDrive\Documente\GitHub\Proiect\Exemple\Example.Data\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ankas\OneDrive\Documente\GitHub\Proiect\Exemple\Example.Data\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ankas\OneDrive\Documente\GitHub\Proiect\Exemple\Example.Data\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ankas\OneDrive\Documente\GitHub\Proiect\Exemple\Example.Data\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ankas\OneDrive\Documente\GitHub\Proiect\Exemple\Example.Data\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\ankas\OneDrive\Documente\GitHub\Proiect\Exemple\Example.Data\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\ankas\OneDrive\Documente\GitHub\Proiect\Exemple\Example.Data\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\ankas\OneDrive\Documente\GitHub\Proiect\Exemple\Example.Data\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\ankas\OneDrive\Documente\GitHub\Proiect\Exemple\Example.Data\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\ankas\OneDrive\Documente\GitHub\Proiect\Exemple\Example.Data\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\ankas\OneDrive\Documente\GitHub\Proiect\Exemple\Example.Data\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\ankas\OneDrive\Documente\GitHub\Proiect\Exemple\Example.Data\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\ankas\OneDrive\Documente\GitHub\Proiect\Exemple\Example.Data\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\ankas\OneDrive\Documente\GitHub\Proiect\Exemple\Example.Data\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\ankas\OneDrive\Documente\GitHub\Proiect\Exemple\Example.Data\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\ankas\OneDrive\Documente\GitHub\Proiect\Exemple\Example.Data\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\ankas\OneDrive\Documente\GitHub\Proiect\Exemple\Example.Data\bin\Debug\net6.0\Example.Dto.dll
+C:\Users\ankas\OneDrive\Documente\GitHub\Proiect\Exemple\Example.Data\bin\Debug\net6.0\Example.Events.dll
+C:\Users\ankas\OneDrive\Documente\GitHub\Proiect\Exemple\Example.Data\bin\Debug\net6.0\Exemple.Domain.dll
+C:\Users\ankas\OneDrive\Documente\GitHub\Proiect\Exemple\Example.Data\bin\Debug\net6.0\Exemple.Domain.pdb
+C:\Users\ankas\OneDrive\Documente\GitHub\Proiect\Exemple\Example.Data\bin\Debug\net6.0\Example.Dto.pdb
+C:\Users\ankas\OneDrive\Documente\GitHub\Proiect\Exemple\Example.Data\bin\Debug\net6.0\Example.Events.pdb
+C:\Users\ankas\OneDrive\Documente\GitHub\Proiect\Exemple\Example.Data\obj\Debug\net6.0\Example.Data.csproj.CopyComplete
+C:\Users\ankas\OneDrive\Documente\GitHub\Proiect\Exemple\Example.Data\obj\Debug\net6.0\Example.Data.dll
+C:\Users\ankas\OneDrive\Documente\GitHub\Proiect\Exemple\Example.Data\obj\Debug\net6.0\refint\Example.Data.dll
+C:\Users\ankas\OneDrive\Documente\GitHub\Proiect\Exemple\Example.Data\obj\Debug\net6.0\Example.Data.pdb
+C:\Users\ankas\OneDrive\Documente\GitHub\Proiect\Exemple\Example.Data\obj\Debug\net6.0\Example.Data.genruntimeconfig.cache
+C:\Users\ankas\OneDrive\Documente\GitHub\Proiect\Exemple\Example.Data\obj\Debug\net6.0\ref\Example.Data.dll
+C:\Users\Carina S\Downloads\Proiect\Exemple\Example.Data\bin\Debug\net6.0\Exemple.Domain.deps.json
+C:\Users\Carina S\Downloads\Proiect\Exemple\Example.Data\bin\Debug\net6.0\Exemple.Domain.runtimeconfig.json
+C:\Users\Carina S\Downloads\Proiect\Exemple\Example.Data\bin\Debug\net6.0\Example.Dto.deps.json
+C:\Users\Carina S\Downloads\Proiect\Exemple\Example.Data\bin\Debug\net6.0\Example.Dto.runtimeconfig.json
+C:\Users\Carina S\Downloads\Proiect\Exemple\Example.Data\bin\Debug\net6.0\Example.Dto.exe
+C:\Users\Carina S\Downloads\Proiect\Exemple\Example.Data\bin\Debug\net6.0\Example.Events.deps.json
+C:\Users\Carina S\Downloads\Proiect\Exemple\Example.Data\bin\Debug\net6.0\Example.Events.runtimeconfig.json
+C:\Users\Carina S\Downloads\Proiect\Exemple\Example.Data\bin\Debug\net6.0\Example.Events.exe
+C:\Users\Carina S\Downloads\Proiect\Exemple\Example.Data\bin\Debug\net6.0\Exemple.Domain.exe
+C:\Users\Carina S\Downloads\Proiect\Exemple\Example.Data\bin\Debug\net6.0\Example.Data.exe
+C:\Users\Carina S\Downloads\Proiect\Exemple\Example.Data\bin\Debug\net6.0\Example.Data.deps.json
+C:\Users\Carina S\Downloads\Proiect\Exemple\Example.Data\bin\Debug\net6.0\Example.Data.runtimeconfig.json
+C:\Users\Carina S\Downloads\Proiect\Exemple\Example.Data\bin\Debug\net6.0\Example.Data.dll
+C:\Users\Carina S\Downloads\Proiect\Exemple\Example.Data\bin\Debug\net6.0\Example.Data.pdb
+C:\Users\Carina S\Downloads\Proiect\Exemple\Example.Data\bin\Debug\net6.0\Azure.Core.dll
+C:\Users\Carina S\Downloads\Proiect\Exemple\Example.Data\bin\Debug\net6.0\Azure.Identity.dll
+C:\Users\Carina S\Downloads\Proiect\Exemple\Example.Data\bin\Debug\net6.0\CloudNative.CloudEvents.dll
+C:\Users\Carina S\Downloads\Proiect\Exemple\Example.Data\bin\Debug\net6.0\CloudNative.CloudEvents.SystemTextJson.dll
+C:\Users\Carina S\Downloads\Proiect\Exemple\Example.Data\bin\Debug\net6.0\CSharp.Choices.dll
+C:\Users\Carina S\Downloads\Proiect\Exemple\Example.Data\bin\Debug\net6.0\CSharp.Choices.Attributes.dll
+C:\Users\Carina S\Downloads\Proiect\Exemple\Example.Data\bin\Debug\net6.0\LanguageExt.Core.dll
+C:\Users\Carina S\Downloads\Proiect\Exemple\Example.Data\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Carina S\Downloads\Proiect\Exemple\Example.Data\bin\Debug\net6.0\Microsoft.CodeAnalysis.dll
+C:\Users\Carina S\Downloads\Proiect\Exemple\Example.Data\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Carina S\Downloads\Proiect\Exemple\Example.Data\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\Carina S\Downloads\Proiect\Exemple\Example.Data\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Carina S\Downloads\Proiect\Exemple\Example.Data\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Carina S\Downloads\Proiect\Exemple\Example.Data\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Carina S\Downloads\Proiect\Exemple\Example.Data\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Carina S\Downloads\Proiect\Exemple\Example.Data\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\Carina S\Downloads\Proiect\Exemple\Example.Data\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Carina S\Downloads\Proiect\Exemple\Example.Data\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Carina S\Downloads\Proiect\Exemple\Example.Data\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Carina S\Downloads\Proiect\Exemple\Example.Data\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Carina S\Downloads\Proiect\Exemple\Example.Data\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+C:\Users\Carina S\Downloads\Proiect\Exemple\Example.Data\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Carina S\Downloads\Proiect\Exemple\Example.Data\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+C:\Users\Carina S\Downloads\Proiect\Exemple\Example.Data\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+C:\Users\Carina S\Downloads\Proiect\Exemple\Example.Data\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Users\Carina S\Downloads\Proiect\Exemple\Example.Data\bin\Debug\net6.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\Carina S\Downloads\Proiect\Exemple\Example.Data\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\Carina S\Downloads\Proiect\Exemple\Example.Data\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Carina S\Downloads\Proiect\Exemple\Example.Data\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Carina S\Downloads\Proiect\Exemple\Example.Data\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Carina S\Downloads\Proiect\Exemple\Example.Data\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Carina S\Downloads\Proiect\Exemple\Example.Data\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Carina S\Downloads\Proiect\Exemple\Example.Data\bin\Debug\net6.0\Microsoft.SqlServer.Server.dll
+C:\Users\Carina S\Downloads\Proiect\Exemple\Example.Data\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Carina S\Downloads\Proiect\Exemple\Example.Data\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\Carina S\Downloads\Proiect\Exemple\Example.Data\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\Carina S\Downloads\Proiect\Exemple\Example.Data\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Carina S\Downloads\Proiect\Exemple\Example.Data\bin\Debug\net6.0\System.Memory.Data.dll
+C:\Users\Carina S\Downloads\Proiect\Exemple\Example.Data\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Users\Carina S\Downloads\Proiect\Exemple\Example.Data\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Carina S\Downloads\Proiect\Exemple\Example.Data\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\Carina S\Downloads\Proiect\Exemple\Example.Data\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\Carina S\Downloads\Proiect\Exemple\Example.Data\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Carina S\Downloads\Proiect\Exemple\Example.Data\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Carina S\Downloads\Proiect\Exemple\Example.Data\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Carina S\Downloads\Proiect\Exemple\Example.Data\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Carina S\Downloads\Proiect\Exemple\Example.Data\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Carina S\Downloads\Proiect\Exemple\Example.Data\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Carina S\Downloads\Proiect\Exemple\Example.Data\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Carina S\Downloads\Proiect\Exemple\Example.Data\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Carina S\Downloads\Proiect\Exemple\Example.Data\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Carina S\Downloads\Proiect\Exemple\Example.Data\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Carina S\Downloads\Proiect\Exemple\Example.Data\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Carina S\Downloads\Proiect\Exemple\Example.Data\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Carina S\Downloads\Proiect\Exemple\Example.Data\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Carina S\Downloads\Proiect\Exemple\Example.Data\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Carina S\Downloads\Proiect\Exemple\Example.Data\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Carina S\Downloads\Proiect\Exemple\Example.Data\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Carina S\Downloads\Proiect\Exemple\Example.Data\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Carina S\Downloads\Proiect\Exemple\Example.Data\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Carina S\Downloads\Proiect\Exemple\Example.Data\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Carina S\Downloads\Proiect\Exemple\Example.Data\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Carina S\Downloads\Proiect\Exemple\Example.Data\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Carina S\Downloads\Proiect\Exemple\Example.Data\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Carina S\Downloads\Proiect\Exemple\Example.Data\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Carina S\Downloads\Proiect\Exemple\Example.Data\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Carina S\Downloads\Proiect\Exemple\Example.Data\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Carina S\Downloads\Proiect\Exemple\Example.Data\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Carina S\Downloads\Proiect\Exemple\Example.Data\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Carina S\Downloads\Proiect\Exemple\Example.Data\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Carina S\Downloads\Proiect\Exemple\Example.Data\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Carina S\Downloads\Proiect\Exemple\Example.Data\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Carina S\Downloads\Proiect\Exemple\Example.Data\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Carina S\Downloads\Proiect\Exemple\Example.Data\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Carina S\Downloads\Proiect\Exemple\Example.Data\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Carina S\Downloads\Proiect\Exemple\Example.Data\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\Carina S\Downloads\Proiect\Exemple\Example.Data\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\Carina S\Downloads\Proiect\Exemple\Example.Data\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\Carina S\Downloads\Proiect\Exemple\Example.Data\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Carina S\Downloads\Proiect\Exemple\Example.Data\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\Carina S\Downloads\Proiect\Exemple\Example.Data\bin\Debug\net6.0\Example.Dto.dll
+C:\Users\Carina S\Downloads\Proiect\Exemple\Example.Data\bin\Debug\net6.0\Example.Events.dll
+C:\Users\Carina S\Downloads\Proiect\Exemple\Example.Data\bin\Debug\net6.0\Exemple.Domain.dll
+C:\Users\Carina S\Downloads\Proiect\Exemple\Example.Data\bin\Debug\net6.0\Exemple.Domain.pdb
+C:\Users\Carina S\Downloads\Proiect\Exemple\Example.Data\bin\Debug\net6.0\Example.Dto.pdb
+C:\Users\Carina S\Downloads\Proiect\Exemple\Example.Data\bin\Debug\net6.0\Example.Events.pdb
+C:\Users\Carina S\Downloads\Proiect\Exemple\Example.Data\obj\Debug\net6.0\Example.Data.csproj.AssemblyReference.cache
+C:\Users\Carina S\Downloads\Proiect\Exemple\Example.Data\obj\Debug\net6.0\Example.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Carina S\Downloads\Proiect\Exemple\Example.Data\obj\Debug\net6.0\Example.Data.AssemblyInfoInputs.cache
+C:\Users\Carina S\Downloads\Proiect\Exemple\Example.Data\obj\Debug\net6.0\Example.Data.AssemblyInfo.cs
+C:\Users\Carina S\Downloads\Proiect\Exemple\Example.Data\obj\Debug\net6.0\Example.Data.csproj.CoreCompileInputs.cache
+C:\Users\Carina S\Downloads\Proiect\Exemple\Example.Data\obj\Debug\net6.0\Example.Data.csproj.CopyComplete
+C:\Users\Carina S\Downloads\Proiect\Exemple\Example.Data\obj\Debug\net6.0\Example.Data.dll
+C:\Users\Carina S\Downloads\Proiect\Exemple\Example.Data\obj\Debug\net6.0\refint\Example.Data.dll
+C:\Users\Carina S\Downloads\Proiect\Exemple\Example.Data\obj\Debug\net6.0\Example.Data.pdb
+C:\Users\Carina S\Downloads\Proiect\Exemple\Example.Data\obj\Debug\net6.0\Example.Data.genruntimeconfig.cache
+C:\Users\Carina S\Downloads\Proiect\Exemple\Example.Data\obj\Debug\net6.0\ref\Example.Data.dll
