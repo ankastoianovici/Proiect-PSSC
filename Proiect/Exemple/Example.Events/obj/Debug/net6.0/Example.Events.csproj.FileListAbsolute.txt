@@ -1,0 +1,40 @@
+C:\Users\ankas\OneDrive\Documente\GitHub\Proiect\Exemple\Example.Events\bin\Debug\net6.0\Example.Events.exe
+C:\Users\ankas\OneDrive\Documente\GitHub\Proiect\Exemple\Example.Events\bin\Debug\net6.0\Example.Events.deps.json
+C:\Users\ankas\OneDrive\Documente\GitHub\Proiect\Exemple\Example.Events\bin\Debug\net6.0\Example.Events.runtimeconfig.json
+C:\Users\ankas\OneDrive\Documente\GitHub\Proiect\Exemple\Example.Events\bin\Debug\net6.0\Example.Events.dll
+C:\Users\ankas\OneDrive\Documente\GitHub\Proiect\Exemple\Example.Events\bin\Debug\net6.0\Example.Events.pdb
+C:\Users\ankas\OneDrive\Documente\GitHub\Proiect\Exemple\Example.Events\bin\Debug\net6.0\CloudNative.CloudEvents.dll
+C:\Users\ankas\OneDrive\Documente\GitHub\Proiect\Exemple\Example.Events\bin\Debug\net6.0\CloudNative.CloudEvents.SystemTextJson.dll
+C:\Users\ankas\OneDrive\Documente\GitHub\Proiect\Exemple\Example.Events\bin\Debug\net6.0\LanguageExt.Core.dll
+C:\Users\ankas\OneDrive\Documente\GitHub\Proiect\Exemple\Example.Events\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\ankas\OneDrive\Documente\GitHub\Proiect\Exemple\Example.Events\obj\Debug\net6.0\Example.Events.csproj.AssemblyReference.cache
+C:\Users\ankas\OneDrive\Documente\GitHub\Proiect\Exemple\Example.Events\obj\Debug\net6.0\Example.Events.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ankas\OneDrive\Documente\GitHub\Proiect\Exemple\Example.Events\obj\Debug\net6.0\Example.Events.AssemblyInfoInputs.cache
+C:\Users\ankas\OneDrive\Documente\GitHub\Proiect\Exemple\Example.Events\obj\Debug\net6.0\Example.Events.AssemblyInfo.cs
+C:\Users\ankas\OneDrive\Documente\GitHub\Proiect\Exemple\Example.Events\obj\Debug\net6.0\Example.Events.csproj.CoreCompileInputs.cache
+C:\Users\ankas\OneDrive\Documente\GitHub\Proiect\Exemple\Example.Events\obj\Debug\net6.0\Example.Events.csproj.CopyComplete
+C:\Users\ankas\OneDrive\Documente\GitHub\Proiect\Exemple\Example.Events\obj\Debug\net6.0\Example.Events.dll
+C:\Users\ankas\OneDrive\Documente\GitHub\Proiect\Exemple\Example.Events\obj\Debug\net6.0\refint\Example.Events.dll
+C:\Users\ankas\OneDrive\Documente\GitHub\Proiect\Exemple\Example.Events\obj\Debug\net6.0\Example.Events.pdb
+C:\Users\ankas\OneDrive\Documente\GitHub\Proiect\Exemple\Example.Events\obj\Debug\net6.0\Example.Events.genruntimeconfig.cache
+C:\Users\ankas\OneDrive\Documente\GitHub\Proiect\Exemple\Example.Events\obj\Debug\net6.0\ref\Example.Events.dll
+C:\Users\Carina S\Downloads\Proiect\Exemple\Example.Events\bin\Debug\net6.0\Example.Events.exe
+C:\Users\Carina S\Downloads\Proiect\Exemple\Example.Events\bin\Debug\net6.0\Example.Events.deps.json
+C:\Users\Carina S\Downloads\Proiect\Exemple\Example.Events\bin\Debug\net6.0\Example.Events.runtimeconfig.json
+C:\Users\Carina S\Downloads\Proiect\Exemple\Example.Events\bin\Debug\net6.0\Example.Events.dll
+C:\Users\Carina S\Downloads\Proiect\Exemple\Example.Events\bin\Debug\net6.0\Example.Events.pdb
+C:\Users\Carina S\Downloads\Proiect\Exemple\Example.Events\bin\Debug\net6.0\CloudNative.CloudEvents.dll
+C:\Users\Carina S\Downloads\Proiect\Exemple\Example.Events\bin\Debug\net6.0\CloudNative.CloudEvents.SystemTextJson.dll
+C:\Users\Carina S\Downloads\Proiect\Exemple\Example.Events\bin\Debug\net6.0\LanguageExt.Core.dll
+C:\Users\Carina S\Downloads\Proiect\Exemple\Example.Events\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Carina S\Downloads\Proiect\Exemple\Example.Events\obj\Debug\net6.0\Example.Events.csproj.AssemblyReference.cache
+C:\Users\Carina S\Downloads\Proiect\Exemple\Example.Events\obj\Debug\net6.0\Example.Events.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Carina S\Downloads\Proiect\Exemple\Example.Events\obj\Debug\net6.0\Example.Events.AssemblyInfoInputs.cache
+C:\Users\Carina S\Downloads\Proiect\Exemple\Example.Events\obj\Debug\net6.0\Example.Events.AssemblyInfo.cs
+C:\Users\Carina S\Downloads\Proiect\Exemple\Example.Events\obj\Debug\net6.0\Example.Events.csproj.CoreCompileInputs.cache
+C:\Users\Carina S\Downloads\Proiect\Exemple\Example.Events\obj\Debug\net6.0\Example.Events.csproj.CopyComplete
+C:\Users\Carina S\Downloads\Proiect\Exemple\Example.Events\obj\Debug\net6.0\Example.Events.dll
+C:\Users\Carina S\Downloads\Proiect\Exemple\Example.Events\obj\Debug\net6.0\refint\Example.Events.dll
+C:\Users\Carina S\Downloads\Proiect\Exemple\Example.Events\obj\Debug\net6.0\Example.Events.pdb
+C:\Users\Carina S\Downloads\Proiect\Exemple\Example.Events\obj\Debug\net6.0\Example.Events.genruntimeconfig.cache
+C:\Users\Carina S\Downloads\Proiect\Exemple\Example.Events\obj\Debug\net6.0\ref\Example.Events.dll
