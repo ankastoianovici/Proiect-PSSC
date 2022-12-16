@@ -1,0 +1,23 @@
+﻿using System.ComponentModel.DataAnnotations;
+using System;
+using Exemple.Domain.Models;
+
+namespace Example.Api.Models
+{
+    public class InputCos
+    {
+        [Required]
+        [RegularExpression(IdComanda.Pattern)]
+        public string RegistrationNumber { get; set; }
+
+        [Required]
+        [Range(1, 10)]
+        public decimal Cant { get; set; }
+
+        [Required]
+        [Range(1, 10)]
+        public decimal Pretb { get; set; }
+
+        public string Adresa { get; set; }
+    }
+}
