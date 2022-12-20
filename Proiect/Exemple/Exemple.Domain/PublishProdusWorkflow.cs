@@ -39,7 +39,7 @@ namespace Exemple.Domain
                                           .ToEither(ex => new FailedCos(unvalidatedprodus.ListaProduse, ex) as ICos)
                          from existingProdus in produseRepository.TryGetExistingProduse()
                                           .ToEither(ex => new FailedCos(unvalidatedprodus.ListaProduse, ex) as ICos)
-                         let checkProdusExists = (Func<IdComanda, Option<IdComanda>>)(clienti => CheckProduseExists(om, clienti))
+                         let checkProdusExists = (Func<IdComanda, Option<IdComanda>>)(clienti => CheckProduseExists(client, clienti))
                          from publishedProduse in ExecuteWorkflowAsync(unvalidatedprodus, existingProdus, checkProdusExists).ToAsync()
                          from saveResult in produseRepository.TrySaveProduse(publishedProduse)
                                           .ToEither(ex => new FailedCos(unvalidatedprodus.ListaProduse, ex) as ICos)
