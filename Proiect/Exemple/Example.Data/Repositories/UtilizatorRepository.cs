@@ -8,19 +8,19 @@ using Exemple.Domain.Models;
 
 namespace Example.Data.Repositories
 {
-    public class OmRepository : IOmRepository
+    public class UtilizatorRepository : IOmRepository
     {
         private readonly ProduseContext produseContext;
 
-        public OmRepository(ProduseContext gradesContext)
+        public UtilizatorRepository(ProduseContext gradesContext)
         {
             this.produseContext = gradesContext;
         }
 
-        public TryAsync<List<IdComanda>> TryGetExistingOm(IEnumerable<string> omToCheck) => async () =>
+        public TryAsync<List<IdComanda>> TryGetExistingUtilizator(IEnumerable<string> utilizatorToCheck) => async () =>
         {
             var oameni = await produseContext.oameni
-                                              .Where(oameni => omToCheck.Contains(oameni.RegistrationNumber))
+                                              .Where(oameni => utilizatorToCheck.Contains(oameni.RegistrationNumber))
                                               .AsNoTracking()
                                               .ToListAsync();
             return oameni.Select(student => new IdComanda(student.RegistrationNumber))
