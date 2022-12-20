@@ -31,7 +31,7 @@ namespace Example.Api
                 options.UseSqlServer(Configuration.GetConnectionString("DefaultConnection")));
 
             services.AddTransient<IProduseRepository, ProduseRepository>();
-            services.AddTransient<IOmRepository, OmRepository>();
+            services.AddTransient<IUtilizatorRepository, UtilizatorRepository>();
             services.AddTransient<PublishProdusWorkflow>();
             services.AddSingleton<IEventSender, ServiceBusTopicEventSender>();
 
