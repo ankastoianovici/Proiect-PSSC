@@ -20,11 +20,11 @@ namespace Example.Data
 
         public DbSet<ProdusDto> produse { get; set; }
 
-        public DbSet<OmDto> oameni { get; set; }
+        public DbSet<UtilizatorDto> utilizatori { get; set; }
 
         protected override void OnModelCreating(ModelBuilder modelBuilder)
         {
-            modelBuilder.Entity<OmDto>().ToTable("Student").HasKey(s => s.OmId);
+            modelBuilder.Entity<UtilizatoriDto>().ToTable("Student").HasKey(s => s.UtilizatorId);
             modelBuilder.Entity<ProdusDto>().ToTable("Grade").HasKey(s => s.ProdusId);
         }
     }
