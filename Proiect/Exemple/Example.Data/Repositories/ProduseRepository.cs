@@ -21,7 +21,7 @@ namespace Example.Data.Repositories
 
         public TryAsync<List<CalculateListaProduse>> TryGetExistingProduse() => async () => (await (
                           from g in dbContext.produse
-                          join s in dbContext.oameni on g.OmId equals s.OmId
+                          join s in dbContext.oameni on g.UtilizatorId equals s.UtilizatorId
                           select new { s.RegistrationNumber, g.ProdusId, g.PretBuc, g.Cantitate, g.PretFinal,g.Adresa })
                           .AsNoTracking()
                           .ToListAsync())
@@ -38,12 +38,12 @@ namespace Example.Data.Repositories
 
         public TryAsync<Unit> TrySaveProduse(PublicatCos produse) => async () =>
         {
-            var om = (await dbContext.oameni.ToListAsync()).ToLookup(om => om.RegistrationNumber);
+            var utilizator = (await dbContext.oameni.ToListAsync()).ToLookup(utilizator => utilizator.RegistrationNumber);
             var nouprodus = produse.ListaProduse
                                     .Where(g => g.IsUpdated && g.ProdusId == 0)
                                     .Select(g => new ProdusDto()
                                     {
-                                        ProdusId = om[g.IdComanda.Value].Single().OmId,
+                                        ProdusId = utilizator[g.IdComanda.Value].Single().UtilizatorId,
                                         PretBuc = g.Pretbuc.Value,
                                         Cantitate = g.Cantitate.Value,
                                         PretFinal = g.PretFinal.Value,
@@ -52,7 +52,7 @@ namespace Example.Data.Repositories
                                     .Select(g => new ProdusDto()
                                     {
                                         ProdusId = g.ProdusId,
-                                        OmId = om[g.IdComanda.Value].Single().OmId,
+                                        UtilizatorId = utilizator[g.IdComanda.Value].Single().UtilizatorId,
                                         PretBuc = g.Pretbuc.Value,
                                         Cantitate = g.Cantitate.Value,
                                         PretFinal = g.PretFinal.Value,
