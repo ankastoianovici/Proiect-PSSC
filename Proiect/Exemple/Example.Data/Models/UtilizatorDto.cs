@@ -6,9 +6,9 @@ using System.Threading.Tasks;
 
 namespace Example.Data.Models
 {
-    public class OmDto
+    public class UtilizatorDto
     {
-        public int OmId { get; set; }
+        public int UtilizatorId { get; set; }
         public string RegistrationNumber { get; set; }
     }
 }
