@@ -9,7 +9,7 @@ namespace Example.Dto.Models
    
     public record ListaProduseDto
     {
-        public string IdOm { get; init; }
+        public string IdUtilizator { get; init; }
         public string IdComanda { get; init; }
         public decimal Cantitate { get; init; }
         public decimal Pretbuc { get; init; }
