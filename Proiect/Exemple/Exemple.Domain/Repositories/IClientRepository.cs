@@ -8,8 +8,8 @@ using Exemple.Domain.Models;
 
 namespace Exemple.Domain.Repositories
 {
-    public interface IOmRepository
+    public interface IClientRepository
     {
-        TryAsync<List<IdComanda>> TryGetExistingOm(IEnumerable<string> omToCheck);
+        TryAsync<List<IdComanda>> TryGetExistingClient(IEnumerable<string> clientToCheck);
     }
 }
