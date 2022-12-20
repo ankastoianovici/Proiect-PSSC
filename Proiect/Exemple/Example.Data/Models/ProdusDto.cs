@@ -9,7 +9,7 @@ namespace Example.Data.Models
     public class ProdusDto
     {
         public int ProdusId { get; set; }
-        public int OmId { get; set; }
+        public int UtilizatorId { get; set; }
         public decimal? PretBuc { get; set; }
         public decimal? Cantitate { get; set; }
         public decimal? PretFinal { get; set; }
