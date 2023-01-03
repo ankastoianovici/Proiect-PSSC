@@ -8,22 +8,22 @@ using Exemple.Domain.Models;
 
 namespace Example.Data.Repositories
 {
-    public class UtilizatorRepository : IOmRepository
+    public class UtilizatorRepository : IUtilizatorRepository
     {
         private readonly ProduseContext produseContext;
 
-        public UtilizatorRepository(ProduseContext gradesContext)
+        public UtilizatorRepository(ProduseContext produseContext)
         {
-            this.produseContext = gradesContext;
+            this.produseContext = produseContext;
         }
 
         public TryAsync<List<IdComanda>> TryGetExistingUtilizator(IEnumerable<string> utilizatorToCheck) => async () =>
         {
-            var oameni = await produseContext.oameni
-                                              .Where(oameni => utilizatorToCheck.Contains(oameni.RegistrationNumber))
+            var oameni = await produseContext.utilizatori
+                                              .Where(utilizator => utilizatorToCheck.Contains(utilizator.RegistrationNumber))
                                               .AsNoTracking()
                                               .ToListAsync();
-            return oameni.Select(student => new IdComanda(student.RegistrationNumber))
+            return utilizator.Select(utilizator => new IdComanda(utilizator.RegistrationNumber))
                            .ToList();
         };
     }
