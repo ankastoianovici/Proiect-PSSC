@@ -2235,25 +2235,25 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\Carina S\\.nuget\\packages\\": {},
-    "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\": {}
+    "C:\\Users\\ankas\\.nuget\\packages\\": {},
+    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Carina S\\Downloads\\Proiect\\Exemple\\Example.Events\\Example.Events.csproj",
+      "projectUniqueName": "C:\\Users\\ankas\\Source\\Repos\\ankastoianovici\\Proiect-PSSC\\Exemple\\Example.Events\\Example.Events.csproj",
       "projectName": "Example.Events",
-      "projectPath": "C:\\Users\\Carina S\\Downloads\\Proiect\\Exemple\\Example.Events\\Example.Events.csproj",
-      "packagesPath": "C:\\Users\\Carina S\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Carina S\\Downloads\\Proiect\\Exemple\\Example.Events\\obj\\",
+      "projectPath": "C:\\Users\\ankas\\Source\\Repos\\ankastoianovici\\Proiect-PSSC\\Exemple\\Example.Events\\Example.Events.csproj",
+      "packagesPath": "C:\\Users\\ankas\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\ankas\\Source\\Repos\\ankastoianovici\\Proiect-PSSC\\Exemple\\Example.Events\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
-        "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\"
+        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
       ],
       "configFilePaths": [
-        "C:\\Users\\Carina S\\AppData\\Roaming\\NuGet\\NuGet.Config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        "C:\\Users\\ankas\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
         "net6.0"
@@ -2303,7 +2303,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.401\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.101\\RuntimeIdentifierGraph.json"
       }
     }
   }

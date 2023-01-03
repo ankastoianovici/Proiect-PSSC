@@ -2936,11 +2936,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\ankas\\OneDrive\\Documente\\GitHub\\Proiect\\Exemple\\Exemple.Domain\\Exemple.Domain.csproj",
+      "projectUniqueName": "C:\\Users\\ankas\\Source\\Repos\\ankastoianovici\\Proiect-PSSC\\Exemple\\Exemple.Domain\\Exemple.Domain.csproj",
       "projectName": "Exemple.Domain",
-      "projectPath": "C:\\Users\\ankas\\OneDrive\\Documente\\GitHub\\Proiect\\Exemple\\Exemple.Domain\\Exemple.Domain.csproj",
+      "projectPath": "C:\\Users\\ankas\\Source\\Repos\\ankastoianovici\\Proiect-PSSC\\Exemple\\Exemple.Domain\\Exemple.Domain.csproj",
       "packagesPath": "C:\\Users\\ankas\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\ankas\\OneDrive\\Documente\\GitHub\\Proiect\\Exemple\\Exemple.Domain\\obj\\",
+      "outputPath": "C:\\Users\\ankas\\Source\\Repos\\ankastoianovici\\Proiect-PSSC\\Exemple\\Exemple.Domain\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -2961,11 +2961,11 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "projectReferences": {
-            "C:\\Users\\ankas\\OneDrive\\Documente\\GitHub\\Proiect\\Exemple\\Example.Dto\\Example.Dto.csproj": {
-              "projectPath": "C:\\Users\\ankas\\OneDrive\\Documente\\GitHub\\Proiect\\Exemple\\Example.Dto\\Example.Dto.csproj"
+            "C:\\Users\\ankas\\Source\\Repos\\ankastoianovici\\Proiect-PSSC\\Exemple\\Example.Dto\\Example.Dto.csproj": {
+              "projectPath": "C:\\Users\\ankas\\Source\\Repos\\ankastoianovici\\Proiect-PSSC\\Exemple\\Example.Dto\\Example.Dto.csproj"
             },
-            "C:\\Users\\ankas\\OneDrive\\Documente\\GitHub\\Proiect\\Exemple\\Example.Events\\Example.Events.csproj": {
-              "projectPath": "C:\\Users\\ankas\\OneDrive\\Documente\\GitHub\\Proiect\\Exemple\\Example.Events\\Example.Events.csproj"
+            "C:\\Users\\ankas\\Source\\Repos\\ankastoianovici\\Proiect-PSSC\\Exemple\\Example.Events\\Example.Events.csproj": {
+              "projectPath": "C:\\Users\\ankas\\Source\\Repos\\ankastoianovici\\Proiect-PSSC\\Exemple\\Example.Events\\Example.Events.csproj"
             }
           }
         }

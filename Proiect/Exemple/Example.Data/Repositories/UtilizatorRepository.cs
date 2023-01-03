@@ -19,11 +19,11 @@ namespace Example.Data.Repositories
 
         public TryAsync<List<IdComanda>> TryGetExistingUtilizator(IEnumerable<string> utilizatorToCheck) => async () =>
         {
-            var oameni = await produseContext.utilizatori
-                                              .Where(utilizator => utilizatorToCheck.Contains(utilizator.RegistrationNumber))
+            var utilizatori = await produseContext.utilizatori
+                                              .Where(utilizatori => utilizatorToCheck.Contains(utilizatori.RegistrationNumber))
                                               .AsNoTracking()
                                               .ToListAsync();
-            return utilizator.Select(utilizator => new IdComanda(utilizator.RegistrationNumber))
+            return utilizatori.Select(utilizator => new IdComanda(utilizator.RegistrationNumber))
                            .ToList();
         };
     }

@@ -28,3 +28,33 @@ C:\Users\Carina S\Downloads\Proiect\Exemple\Example.Dto\obj\Debug\net6.0\refint\
 C:\Users\Carina S\Downloads\Proiect\Exemple\Example.Dto\obj\Debug\net6.0\Example.Dto.pdb
 C:\Users\Carina S\Downloads\Proiect\Exemple\Example.Dto\obj\Debug\net6.0\Example.Dto.genruntimeconfig.cache
 C:\Users\Carina S\Downloads\Proiect\Exemple\Example.Dto\obj\Debug\net6.0\ref\Example.Dto.dll
+C:\Users\ankas\OneDrive\Desktop\Exemple\Example.Dto\bin\Debug\net6.0\Example.Dto.exe
+C:\Users\ankas\OneDrive\Desktop\Exemple\Example.Dto\bin\Debug\net6.0\Example.Dto.deps.json
+C:\Users\ankas\OneDrive\Desktop\Exemple\Example.Dto\bin\Debug\net6.0\Example.Dto.runtimeconfig.json
+C:\Users\ankas\OneDrive\Desktop\Exemple\Example.Dto\bin\Debug\net6.0\Example.Dto.dll
+C:\Users\ankas\OneDrive\Desktop\Exemple\Example.Dto\bin\Debug\net6.0\Example.Dto.pdb
+C:\Users\ankas\OneDrive\Desktop\Exemple\Example.Dto\obj\Debug\net6.0\Example.Dto.csproj.AssemblyReference.cache
+C:\Users\ankas\OneDrive\Desktop\Exemple\Example.Dto\obj\Debug\net6.0\Example.Dto.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ankas\OneDrive\Desktop\Exemple\Example.Dto\obj\Debug\net6.0\Example.Dto.AssemblyInfoInputs.cache
+C:\Users\ankas\OneDrive\Desktop\Exemple\Example.Dto\obj\Debug\net6.0\Example.Dto.AssemblyInfo.cs
+C:\Users\ankas\OneDrive\Desktop\Exemple\Example.Dto\obj\Debug\net6.0\Example.Dto.csproj.CoreCompileInputs.cache
+C:\Users\ankas\OneDrive\Desktop\Exemple\Example.Dto\obj\Debug\net6.0\Example.Dto.dll
+C:\Users\ankas\OneDrive\Desktop\Exemple\Example.Dto\obj\Debug\net6.0\refint\Example.Dto.dll
+C:\Users\ankas\OneDrive\Desktop\Exemple\Example.Dto\obj\Debug\net6.0\Example.Dto.pdb
+C:\Users\ankas\OneDrive\Desktop\Exemple\Example.Dto\obj\Debug\net6.0\Example.Dto.genruntimeconfig.cache
+C:\Users\ankas\OneDrive\Desktop\Exemple\Example.Dto\obj\Debug\net6.0\ref\Example.Dto.dll
+C:\Users\ankas\Source\Repos\ankastoianovici\Proiect-PSSC\Exemple\Example.Dto\bin\Debug\net6.0\Example.Dto.exe
+C:\Users\ankas\Source\Repos\ankastoianovici\Proiect-PSSC\Exemple\Example.Dto\bin\Debug\net6.0\Example.Dto.deps.json
+C:\Users\ankas\Source\Repos\ankastoianovici\Proiect-PSSC\Exemple\Example.Dto\bin\Debug\net6.0\Example.Dto.runtimeconfig.json
+C:\Users\ankas\Source\Repos\ankastoianovici\Proiect-PSSC\Exemple\Example.Dto\bin\Debug\net6.0\Example.Dto.dll
+C:\Users\ankas\Source\Repos\ankastoianovici\Proiect-PSSC\Exemple\Example.Dto\bin\Debug\net6.0\Example.Dto.pdb
+C:\Users\ankas\Source\Repos\ankastoianovici\Proiect-PSSC\Exemple\Example.Dto\obj\Debug\net6.0\Example.Dto.csproj.AssemblyReference.cache
+C:\Users\ankas\Source\Repos\ankastoianovici\Proiect-PSSC\Exemple\Example.Dto\obj\Debug\net6.0\Example.Dto.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ankas\Source\Repos\ankastoianovici\Proiect-PSSC\Exemple\Example.Dto\obj\Debug\net6.0\Example.Dto.AssemblyInfoInputs.cache
+C:\Users\ankas\Source\Repos\ankastoianovici\Proiect-PSSC\Exemple\Example.Dto\obj\Debug\net6.0\Example.Dto.AssemblyInfo.cs
+C:\Users\ankas\Source\Repos\ankastoianovici\Proiect-PSSC\Exemple\Example.Dto\obj\Debug\net6.0\Example.Dto.csproj.CoreCompileInputs.cache
+C:\Users\ankas\Source\Repos\ankastoianovici\Proiect-PSSC\Exemple\Example.Dto\obj\Debug\net6.0\Example.Dto.dll
+C:\Users\ankas\Source\Repos\ankastoianovici\Proiect-PSSC\Exemple\Example.Dto\obj\Debug\net6.0\refint\Example.Dto.dll
+C:\Users\ankas\Source\Repos\ankastoianovici\Proiect-PSSC\Exemple\Example.Dto\obj\Debug\net6.0\Example.Dto.pdb
+C:\Users\ankas\Source\Repos\ankastoianovici\Proiect-PSSC\Exemple\Example.Dto\obj\Debug\net6.0\Example.Dto.genruntimeconfig.cache
+C:\Users\ankas\Source\Repos\ankastoianovici\Proiect-PSSC\Exemple\Example.Dto\obj\Debug\net6.0\ref\Example.Dto.dll

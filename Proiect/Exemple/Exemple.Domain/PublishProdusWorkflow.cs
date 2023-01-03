@@ -18,15 +18,15 @@ namespace Exemple.Domain
 {
     public class PublishProdusWorkflow
     {
-        private readonly IClientRepository clientRepository;
+        private readonly IUtilizatorRepository utilizatortRepository;
         private readonly IProduseRepository produseRepository;
         private readonly ILogger<PublishProdusWorkflow> logger;
         private readonly IEventSender eventSender;
 
-        public PublishProdusWorkflow(IClientRepository clientRepository, IProduseRepository produseRepository,
+        public PublishProdusWorkflow(IUtilizatorRepository utilizatortRepository, IProduseRepository produseRepository,
                                     ILogger<PublishProdusWorkflow> logger, IEventSender eventSender)
         {
-            this.clientRepository = clientRepository;
+            this.utilizatortRepository = utilizatortRepository;
             this.produseRepository = produseRepository;
             this.logger = logger;
             this.eventSender = eventSender;
@@ -35,7 +35,7 @@ namespace Exemple.Domain
         {
             NevalidatCos unvalidatedprodus = new NevalidatCos(command.InputPretBuc);
 
-            var result = from client in clientRepository.TryGetExistingClient(unvalidatedprodus.ListaProduse.Select(prod => prod.IdComanda))
+            var result = from client in utilizatortRepository.TryGetExistingUtilizator(unvalidatedprodus.ListaProduse.Select(prod => prod.IdComanda))
                                           .ToEither(ex => new FailedCos(unvalidatedprodus.ListaProduse, ex) as ICos)
                          from existingProdus in produseRepository.TryGetExistingProduse()
                                           .ToEither(ex => new FailedCos(unvalidatedprodus.ListaProduse, ex) as ICos)
@@ -54,7 +54,7 @@ namespace Exemple.Domain
                          {
                              Produse = produse.Select(g => new ListaProduseDto()
                              {
-                                 IdClient = g.IdComanda.Value, 
+                                 IdUtilizator= g.IdComanda.Value, 
                                  IdComanda = g.IdComanda.Value,
                                  Pretbuc = g.Pretbuc.Value,
                                  Cantitate = g.Cantitate.Value,
@@ -92,9 +92,9 @@ namespace Exemple.Domain
             );
         }
 
-        private Option<IdComanda> CheckProduseExists(IEnumerable<IdComanda> clienti, IdComanda IdComanda)
+        private Option<IdComanda> CheckProduseExists(IEnumerable<IdComanda> utilizatori, IdComanda IdComanda)
         {
-            if (clienti.Any(s => s == IdComanda))
+            if (utilizatori.Any(s => s == IdComanda))
             {
                 return Some(IdComanda);
             }
