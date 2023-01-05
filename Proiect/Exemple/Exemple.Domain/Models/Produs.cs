@@ -62,6 +62,6 @@ namespace Exemple.Domain.Models
             }
         }
 
-        private static bool IsValid(decimal numericProdus) => numericProdus > 0 && numericProdus <= 10;
+        private static bool IsValid(decimal numericProdus) => numericProdus > 0 && numericProdus <= 100000;
     }
 }
