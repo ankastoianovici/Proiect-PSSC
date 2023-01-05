@@ -19,7 +19,7 @@ namespace Exemple.Domain.Models
             }
             else
             {
-                throw new InvalidIdComandaException("");
+                throw new InvalidIdComandaException("Id invalid");
             }
         }
         private static bool IsValid(string stringValue) => PatternRegex.IsMatch(stringValue);
