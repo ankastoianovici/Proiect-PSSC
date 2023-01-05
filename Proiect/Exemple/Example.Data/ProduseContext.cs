@@ -24,8 +24,8 @@ namespace Example.Data
 
         protected override void OnModelCreating(ModelBuilder modelBuilder)
         {
-            modelBuilder.Entity<UtilizatorDto>().ToTable("Student").HasKey(s => s.UtilizatorId);
-            modelBuilder.Entity<ProdusDto>().ToTable("Grade").HasKey(s => s.ProdusId);
+            modelBuilder.Entity<UtilizatorDto>().ToTable("Utilizatori").HasKey(s => s.UtilizatorId);
+            modelBuilder.Entity<ProdusDto>().ToTable("Produse").HasKey(s => s.ProdusId);
         }
     }
 }
