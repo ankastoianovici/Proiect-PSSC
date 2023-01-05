@@ -27,9 +27,9 @@ namespace Exemple.Domain
                      );
 
         private static Func<UnvalidatedListaProduse, EitherAsync<string, ValidateListaProduse>> ValidateProducts(Func<IdComanda, Option<IdComanda>> checkProductExists) =>
-            unvalidatedProduct => ValidateStudentGrade(checkProductExists, unvalidatedProduct);
+            unvalidatedProduct => ValidateUtilizatorProduse(checkProductExists, unvalidatedProduct);
 
-        private static EitherAsync<string, ValidateListaProduse> ValidateStudentGrade(Func<IdComanda, Option<IdComanda>> checkProductExists, UnvalidatedListaProduse unvalidatedProduse) =>
+        private static EitherAsync<string, ValidateListaProduse> ValidateUtilizatorProduse(Func<IdComanda, Option<IdComanda>> checkProductExists, UnvalidatedListaProduse unvalidatedProduse) =>
             from pretbuc in Produs.TryParseProdus(unvalidatedProduse.PretBuc)
                                    .ToEitherAsync($"Invalid pret ({unvalidatedProduse.IdComanda}, {unvalidatedProduse.PretBuc})")
             from cantitate in Produs.TryParseProdus(unvalidatedProduse.Cantitate)
@@ -47,12 +47,12 @@ namespace Exemple.Domain
 
         private static EitherAsync<string, List<ValidateListaProduse>> ReduceValidProduse(EitherAsync<string, List<ValidateListaProduse>> acc, EitherAsync<string, ValidateListaProduse> next) =>
             from list in acc
-            from nextGrade in next
-            select list.AppendValidGrade(nextGrade);
+            from nextProdus in next
+            select list.AppendValidProduse(nextProdus);
 
-        private static List<ValidateListaProduse> AppendValidGrade(this List<ValidateListaProduse> list, ValidateListaProduse validGrade)
+        private static List<ValidateListaProduse> AppendValidProduse(this List<ValidateListaProduse> list, ValidateListaProduse validProdus)
         {
-            list.Add(validGrade);
+            list.Add(validProdus);
             return list;
         }
 
