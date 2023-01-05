@@ -12,7 +12,7 @@ namespace Exemple.Domain.Models
 {
     public record AdresaPlata
     {
-        private static readonly Regex ValidPattern = new("^LM[0-9]{5}$");
+        private static readonly Regex ValidPattern = new("^[a-zA-Z0-9]*$");
         public string Value { get; }
         public AdresaPlata(string value)
         {
@@ -22,7 +22,7 @@ namespace Exemple.Domain.Models
             }
             else
             {
-                throw new AdresaInvalida("");
+                throw new AdresaInvalida("Adresa invalida");
             }
 
         }
