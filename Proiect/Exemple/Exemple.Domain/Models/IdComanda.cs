@@ -6,7 +6,7 @@ namespace Exemple.Domain.Models
 {
     public record IdComanda
     {
-        public const string Pattern = "^LM[0-9]{5}$";
+        public const string Pattern = "[1-9]|[1-9][0-9]|100";
         private static readonly Regex PatternRegex = new(Pattern);
 
         public string Value { get; }
