@@ -11,11 +11,11 @@ namespace Example.Api.Models
         public string RegistrationNumber { get; set; }
 
         [Required]
-        [Range(1, 10)]
+        [Range(1, 10000)]
         public decimal Cant { get; set; }
 
         [Required]
-        [Range(1, 10)]
+        [Range(1, 10000)]
         public decimal Pretb { get; set; }
 
         public string Adresa { get; set; }
