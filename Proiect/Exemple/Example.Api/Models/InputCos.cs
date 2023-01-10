@@ -17,7 +17,8 @@ namespace Example.Api.Models
         [Required]
         [Range(1, 10000)]
         public decimal Pretb { get; set; }
-
+        [Required]
+        [RegularExpression(AdresaPlata.Pattern)]
         public string Adresa { get; set; }
     }
 }
