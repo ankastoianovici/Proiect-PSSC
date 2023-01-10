@@ -47,6 +47,7 @@ namespace Example.Data.Repositories
                                         PretBuc = g.Pretbuc.Value,
                                         Cantitate = g.Cantitate.Value,
                                         PretFinal = g.PretFinal.Value,
+                                        Adresa = g.Adresa.Value,
                                     });
             var updatedproduse = produse.ListaProduse.Where(g => g.IsUpdated && g.ProdusId > 0)
                                     .Select(g => new ProdusDto()
@@ -56,6 +57,7 @@ namespace Example.Data.Repositories
                                         PretBuc = g.Pretbuc.Value,
                                         Cantitate = g.Cantitate.Value,
                                         PretFinal = g.PretFinal.Value,
+                                        Adresa = g.Adresa.Value,
                                     });
 
             dbContext.AddRange(nouprodus);
