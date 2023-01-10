@@ -42,7 +42,8 @@ namespace Example.Api.Controllers
             IdComanda = cos.IdComanda.Value,
             cos.Cantitate,
             cos.Pretbuc,
-            cos.PretFinal
+            cos.PretFinal,
+            cos.Adresa
         }));
 
         [HttpPost]
