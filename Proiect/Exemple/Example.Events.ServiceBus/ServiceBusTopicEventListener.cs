@@ -15,8 +15,8 @@ namespace Example.Events.ServiceBus
         public static void Main(string[] args)
         {
         }
-        private const string TopicName = "cos";
-        private const string SubscriptionName = "All";
+        private const string TopicName = "produsetopic";
+        private const string SubscriptionName = "produseSubscription";
         private ServiceBusProcessor? processor;
         private readonly ServiceBusClient client;
         private readonly Dictionary<string, IEventHandler> eventHandlers;
